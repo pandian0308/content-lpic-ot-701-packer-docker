@@ -1,6 +1,6 @@
 {
   "variables": {
-    "repository": "la/express",
+    "repository": "dockerpandian/express",
     "tag": "0.1.0"
   },
   "builders": [
